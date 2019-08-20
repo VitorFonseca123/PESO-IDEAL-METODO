@@ -1,0 +1,2 @@
+# PESO-IDEAL-METODO
+Tendo como dados de entrada a altura e o sexo de uma pessoa, faça  um programa que calcule o peso ideal, utilizando as seguintes fórmulas: (h = altura)  - Para homens: (72.7*h) - 58      *****     - Para mulheres: (62. 1 *h) - 44.7  Um método chamado calcularPesoIdeal deverá ser implementado para a realização do cálculo, sendo que deverá receber por parâmetro o sexo e a altura da pessoa.
